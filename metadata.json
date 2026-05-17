@@ -1,0 +1,8 @@
+{
+  "name": "Brain Reset Lab",
+  "description": "하이엔드 브레인 아키텍처 및 마인드셋 최적화 솔루션. AI 정밀 분석과 뉴로피드백을 통한 인생의 결과를 바꾸는 뇌 설계 프로젝트.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
